@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project
+
+An app to read a CSV file and display in a tabulated format
+
+![alt text](example.png)
 
 ## Available Scripts
 
